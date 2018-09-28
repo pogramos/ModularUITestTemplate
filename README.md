@@ -6,7 +6,9 @@ Modular template for UITest with a base file for your test extensions
 ```shell
 git clone https://github.com/pogramos/ModularUITestTemplate.git
 ```
-Copy the `Modular Test.xctemplate` folder to `~/Library/Developer/Xcode/Templates` and restart your xcode if it is open
+Copy the `Modular Test.xctemplate` folder to `~/Library/Developer/Xcode/Templates` and restart your xcode if it is open.
+
+`UITestsBaseLocalizingStructure` add to your xcuitests folder and now you can create your test modules.
 
 # License
 
